@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "name": "The Dark Knight",
+    "percentage": 91,
+    "marks": [
+      {
+        "Maths": 99,
+        "physics": 95,
+        "chemistry": 90,
+        "biology": 88,
+        "english":88
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Inception",
+    "percentage": 91,
+    "marks": [
+      {
+        "Maths": 89,
+        "physics": 95,
+        "chemistry": 90,
+        "biology": 38,
+        "english":88
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Matrix",
+    "percentage": 91,
+    "marks": [
+      {
+        "Maths": 99,
+        "physics": 95,
+        "chemistry": 90,
+        "biology": 88,
+        "english":88
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Shawshank Redemption",
+    "percentage": 91,
+    "marks": [
+      {
+        "Maths": 99,
+        "physics": 95,
+        "chemistry": 90,
+        "biology": 88,
+        "english":88
+      }
+
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Avatar",
+    "percentage": 91,
+    "marks": [
+      {
+        "Maths": 99,
+        "physics": 95,
+        "chemistry": 90,
+        "biology": 88,
+        "english":88
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "The Lord of the Rings",
+    "percentage": 91,
+    "marks": [
+      {
+        "Maths": 99,
+        "physics": 95,
+        "chemistry": 90,
+        "biology": 88,
+        "english":88
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Gladiator",
+    "percentage": 91,
+    "marks": [
+      {
+        "Maths": 99,
+        "physics": 95,
+        "chemistry": 90,
+        "biology": 88,
+        "english":88
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Titanic",
+    "percentage": 91,
+    "marks": [
+      {
+        "Maths": 99,
+        "physics": 95,
+        "chemistry": 90,
+        "biology": 88,
+        "english":88
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Terminator",
+    "percentage": 91,
+    "marks": [
+      {
+        "Maths": 99,
+        "physics": 95,
+        "chemistry": 90,
+        "biology": 88,
+        "english":88
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "The Dark Knight Rises",
+
+    "percentage": 91,
+    "marks": [
+      {
+        "Maths": 99,
+        "physics": 95,
+        "chemistry": 90,
+        "biology": 88,
+        "english":88
+      }
+    ]
+  }
+]
